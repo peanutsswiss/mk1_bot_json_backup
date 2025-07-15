@@ -1,26 +1,34 @@
 {
-  "449576693321957403": {
-    "wb_id": "PeanutsSwiss",
-    "region": "EU"
-  },
-  "840615303313490022": {
-    "wb_id": "ryanshako701",
-    "region": "EU"
-  },
-  "342734505175416842": {
-    "wb_id": "dwarfMk",
-    "region": "NA"
-  },
-  "533634338160377862": {
-    "wb_id": "Fluid_MKX",
-    "region": "EU"
-  },
-  "994466062487793684": {
-    "wb_id": "BWoodTTV",
-    "region": "NA"
-  },
-  "813493727322308639": {
-    "wb_id": "Buster1216",
-    "region": "NA"
-  }
+    "449576693321957403": {
+        "wb_id": "PeanutsSwiss",
+        "region": "EU"
+    },
+    "840615303313490022": {
+        "wb_id": "ryanshako701",
+        "region": "EU"
+    },
+    "342734505175416842": {
+        "wb_id": "dwarfMk",
+        "region": "NA"
+    },
+    "533634338160377862": {
+        "wb_id": "Fluid_MKX",
+        "region": "EU"
+    },
+    "994466062487793684": {
+        "wb_id": "BWoodTTV",
+        "region": "NA"
+    },
+    "813493727322308639": {
+        "wb_id": "Buster1216",
+        "region": "NA"
+    },
+    "1132872502188712006": {
+        "wb_id": "zenFGC",
+        "region": "NA"
+    },
+    "1392713127065293012": {
+        "wb_id": "Ewo1x",
+        "region": "NA"
+    }
 }
