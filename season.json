@@ -1,0 +1,37 @@
+{
+    "active": true,
+    "current_week": 1,
+    "players": {
+        "449576693321957403": {
+            "matches_won": 0,
+            "sets_won": 0,
+            "sets_played": 0,
+            "points": 0
+        },
+        "840615303313490022": {
+            "matches_won": 0,
+            "sets_won": 0,
+            "sets_played": 0,
+            "points": 0
+        },
+        "342734505175416842": {
+            "matches_won": 0,
+            "sets_won": 0,
+            "sets_played": 0,
+            "points": 0
+        },
+        "533634338160377862": {
+            "matches_won": 0,
+            "sets_won": 0,
+            "sets_played": 0,
+            "points": 0
+        },
+        "994466062487793684": {
+            "matches_won": 0,
+            "sets_won": 0,
+            "sets_played": 0,
+            "points": 0
+        }
+    },
+    "signup_open_for_next_week": false
+}
