@@ -11,7 +11,7 @@
         "840615303313490022": {
             "matches_won": 0,
             "sets_won": 0,
-            "sets_played": 0,
+            "sets_played": 3,
             "points": 0
         },
         "342734505175416842": {
@@ -51,10 +51,10 @@
             "points": 0
         },
         "1083783874464731136": {
-            "matches_won": 0,
-            "sets_won": 0,
-            "sets_played": 0,
-            "points": 0
+            "matches_won": 1,
+            "sets_won": 3,
+            "sets_played": 3,
+            "points": 20
         },
         "432328301155975200": {
             "matches_won": 0,
