@@ -2,107 +2,68 @@
     "active": true,
     "current_week": 1,
     "players": {
-        "449576693321957403": {
-            "matches_won": 0,
-            "sets_won": 0,
-            "sets_played": 3,
-            "points": 0
-        },
-        "840615303313490022": {
-            "matches_won": 0,
-            "sets_won": 1,
-            "sets_played": 7,
-            "points": 0
-        },
         "342734505175416842": {
-            "matches_won": 3,
-            "sets_won": 9,
-            "sets_played": 13,
-            "points": 60
-        },
-        "533634338160377862": {
-            "matches_won": 0,
-            "sets_won": 0,
-            "sets_played": 0,
-            "points": 0
-        },
-        "994466062487793684": {
-            "matches_won": 0,
-            "sets_won": 0,
-            "sets_played": 0,
-            "points": 0
-        },
-        "813493727322308639": {
-            "matches_won": 0,
-            "sets_won": 0,
-            "sets_played": 0,
-            "points": 0
-        },
-        "1132872502188712006": {
-            "matches_won": 0,
-            "sets_won": 0,
-            "sets_played": 0,
-            "points": 0
-        },
-        "1392713127065293012": {
-            "matches_won": 0,
-            "sets_won": 0,
-            "sets_played": 0,
-            "points": 0
-        },
-        "1083783874464731136": {
-            "matches_won": 1,
-            "sets_won": 5,
-            "sets_played": 8,
-            "points": 20
-        },
-        "432328301155975200": {
-            "matches_won": 2,
-            "sets_won": 6,
-            "sets_played": 8,
-            "points": 40
+            "matches_won": 5,
+            "sets_won": 15,
+            "sets_played": 21,
+            "points": 100,
+            "matches_played": 5
         },
         "975624124527435776": {
+            "matches_won": 2,
+            "sets_won": 6,
+            "sets_played": 12,
+            "points": 40,
+            "matches_played": 4
+        },
+        "1083783874464731136": {
+            "matches_won": 2,
+            "sets_won": 10,
+            "sets_played": 17,
+            "points": 40,
+            "matches_played": 4
+        },
+        "840615303313490022": {
             "matches_won": 1,
-            "sets_won": 3,
-            "sets_played": 6,
-            "points": 20
-        },
-        "512785175780917260": {
-            "matches_won": 0,
-            "sets_won": 0,
-            "sets_played": 0,
-            "points": 0
-        },
-        "716871128617844869": {
-            "matches_won": 0,
-            "sets_won": 0,
-            "sets_played": 0,
-            "points": 0
+            "sets_won": 5,
+            "sets_played": 14,
+            "points": 20,
+            "matches_played": 4
         },
         "999192548155338762": {
             "matches_won": 0,
             "sets_won": 0,
-            "sets_played": 3,
-            "points": 0
-        },
-        "1228050574533197965": {
-            "matches_won": 0,
-            "sets_won": 0,
-            "sets_played": 0,
-            "points": 0
-        },
-        "784165232263430176": {
-            "matches_won": 0,
-            "sets_won": 1,
-            "sets_played": 4,
-            "points": 0
+            "sets_played": 6,
+            "points": 0,
+            "matches_played": 2
         },
         "350326901363179523": {
             "matches_won": 0,
             "sets_won": 2,
             "sets_played": 5,
-            "points": 0
+            "points": 0,
+            "matches_played": 1
+        },
+        "449576693321957403": {
+            "matches_won": 0,
+            "sets_won": 0,
+            "sets_played": 3,
+            "points": 0,
+            "matches_played": 1
+        },
+        "432328301155975200": {
+            "matches_won": 4,
+            "sets_won": 13,
+            "sets_played": 20,
+            "points": 80,
+            "matches_played": 5
+        },
+        "784165232263430176": {
+            "matches_won": 0,
+            "sets_won": 2,
+            "sets_played": 8,
+            "points": 0,
+            "matches_played": 2
         }
     },
     "signup_open_for_next_week": true
