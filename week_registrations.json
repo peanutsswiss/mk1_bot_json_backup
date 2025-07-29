@@ -50,6 +50,15 @@
             "wednesday",
             "friday",
             "thursday"
+        ],
+        "840615303313490022": [
+            "wednesday",
+            "saturday",
+            "friday"
+        ],
+        "350326901363179523": [
+            "wednesday",
+            "thursday"
         ]
     }
 }
