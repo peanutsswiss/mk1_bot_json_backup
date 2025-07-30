@@ -44,8 +44,9 @@
             "friday"
         ],
         "1083783874464731136": [
-            "tuesday",
-            "wednesday"
+            "thursday",
+            "wednesday",
+            "tuesday"
         ],
         "999192548155338762": [
             "wednesday",
@@ -63,6 +64,10 @@
         ],
         "784165232263430176": [
             "wednesday"
+        ],
+        "342734505175416842": [
+            "thursday",
+            "friday"
         ]
     }
 }
