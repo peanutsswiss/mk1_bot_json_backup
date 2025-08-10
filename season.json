@@ -37,10 +37,10 @@
         "999192548155338762": {
             "matches_won": 0,
             "sets_won": 0,
-            "sets_played": 12,
+            "sets_played": 15,
             "points": 0,
-            "matches_played": 4,
-            "forfeit_losses": 0
+            "matches_played": 5,
+            "forfeit_losses": 1
         },
         "350326901363179523": {
             "matches_won": 2,
@@ -79,6 +79,22 @@
             "sets_won": 0,
             "sets_played": 6,
             "points": 0,
+            "matches_played": 2,
+            "forfeit_losses": 0
+        },
+        "1123860006874386483": {
+            "matches_won": 0,
+            "sets_won": 0,
+            "sets_played": 3,
+            "points": 0,
+            "matches_played": 1,
+            "forfeit_losses": 1
+        },
+        "846455823889989732": {
+            "matches_won": 2,
+            "sets_won": 6,
+            "sets_played": 6,
+            "points": 40,
             "matches_played": 2,
             "forfeit_losses": 0
         }
