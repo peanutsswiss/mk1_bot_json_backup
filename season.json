@@ -1,6 +1,6 @@
 {
     "active": true,
-    "current_week": 3,
+    "current_week": 4,
     "players": {
         "342734505175416842": {
             "matches_won": 5,
@@ -99,5 +99,5 @@
             "forfeit_losses": 0
         }
     },
-    "signup_open_for_next_week": true
+    "signup_open_for_next_week": false
 }
