@@ -3,11 +3,11 @@
     "current_week": 4,
     "players": {
         "342734505175416842": {
-            "matches_won": 4,
-            "sets_won": 14,
-            "sets_played": 25,
-            "points": 80,
-            "matches_played": 7,
+            "matches_won": 6,
+            "sets_won": 18,
+            "sets_played": 28,
+            "points": 120,
+            "matches_played": 8,
             "forfeit_losses": 0
         },
         "975624124527435776": {
@@ -19,10 +19,10 @@
             "forfeit_losses": 0
         },
         "1083783874464731136": {
-            "matches_won": 6,
-            "sets_won": 20,
+            "matches_won": 5,
+            "sets_won": 19,
             "sets_played": 31,
-            "points": 120,
+            "points": 100,
             "matches_played": 8,
             "forfeit_losses": 0
         },
@@ -53,9 +53,9 @@
         "840615303313490022": {
             "matches_won": 4,
             "sets_won": 13,
-            "sets_played": 25,
+            "sets_played": 28,
             "points": 80,
-            "matches_played": 8,
+            "matches_played": 9,
             "forfeit_losses": 0
         },
         "432328301155975200": {
