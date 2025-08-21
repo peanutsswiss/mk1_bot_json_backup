@@ -8,7 +8,8 @@
             "sets_played": 31,
             "points": 140,
             "matches_played": 9,
-            "forfeit_losses": 0
+            "forfeit_losses": 0,
+            "voids": 1
         },
         "975624124527435776": {
             "matches_won": 2,
@@ -16,7 +17,8 @@
             "sets_played": 27,
             "points": 40,
             "matches_played": 9,
-            "forfeit_losses": 0
+            "forfeit_losses": 0,
+            "voids": 0
         },
         "1083783874464731136": {
             "matches_won": 5,
@@ -24,7 +26,8 @@
             "sets_played": 31,
             "points": 100,
             "matches_played": 8,
-            "forfeit_losses": 0
+            "forfeit_losses": 0,
+            "voids": 2
         },
         "999192548155338762": {
             "matches_won": 0,
@@ -32,7 +35,8 @@
             "sets_played": 15,
             "points": 0,
             "matches_played": 5,
-            "forfeit_losses": 1
+            "forfeit_losses": 1,
+            "voids": 1
         },
         "350326901363179523": {
             "matches_won": 4,
@@ -40,7 +44,8 @@
             "sets_played": 22,
             "points": 80,
             "matches_played": 6,
-            "forfeit_losses": 0
+            "forfeit_losses": 0,
+            "voids": 1
         },
         "449576693321957403": {
             "matches_won": 0,
@@ -48,7 +53,8 @@
             "sets_played": 3,
             "points": 0,
             "matches_played": 1,
-            "forfeit_losses": 0
+            "forfeit_losses": 0,
+            "voids": 0
         },
         "840615303313490022": {
             "matches_won": 4,
@@ -56,7 +62,8 @@
             "sets_played": 31,
             "points": 80,
             "matches_played": 10,
-            "forfeit_losses": 0
+            "forfeit_losses": 0,
+            "voids": 1
         },
         "432328301155975200": {
             "matches_won": 8,
@@ -64,7 +71,8 @@
             "sets_played": 33,
             "points": 160,
             "matches_played": 9,
-            "forfeit_losses": 0
+            "forfeit_losses": 0,
+            "voids": 1
         },
         "784165232263430176": {
             "matches_won": 3,
@@ -72,7 +80,8 @@
             "sets_played": 30,
             "points": 60,
             "matches_played": 8,
-            "forfeit_losses": 0
+            "forfeit_losses": 0,
+            "voids": 0
         },
         "737747194488029344": {
             "matches_won": 0,
@@ -80,7 +89,8 @@
             "sets_played": 6,
             "points": 0,
             "matches_played": 2,
-            "forfeit_losses": 0
+            "forfeit_losses": 0,
+            "voids": 0
         },
         "1123860006874386483": {
             "matches_won": 0,
@@ -88,7 +98,8 @@
             "sets_played": 3,
             "points": 0,
             "matches_played": 1,
-            "forfeit_losses": 1
+            "forfeit_losses": 1,
+            "voids": 0
         },
         "846455823889989732": {
             "matches_won": 2,
@@ -96,7 +107,8 @@
             "sets_played": 6,
             "points": 40,
             "matches_played": 2,
-            "forfeit_losses": 0
+            "forfeit_losses": 0,
+            "voids": 1
         }
     },
     "signup_open_for_next_week": false
