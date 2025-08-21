@@ -491,6 +491,66 @@
                     "date": "2025-08-17",
                     "source": "swiss",
                     "status": "recorded"
+                },
+                {
+                    "player1": "1083783874464731136",
+                    "player2": "999192548155338762",
+                    "match_id": "1083783874464731136_999192548155338762_2025-08-19",
+                    "score": {
+                        "p1": 0,
+                        "p2": 0,
+                        "winner": ""
+                    },
+                    "date": "2025-08-19",
+                    "source": "manual",
+                    "status": "void",
+                    "void": true,
+                    "void_reason": "mutual forfeit/no winner"
+                },
+                {
+                    "player1": "432328301155975200",
+                    "player2": "846455823889989732",
+                    "match_id": "432328301155975200_846455823889989732_2025-08-19",
+                    "score": {
+                        "p1": 0,
+                        "p2": 0,
+                        "winner": ""
+                    },
+                    "date": "2025-08-19",
+                    "source": "manual",
+                    "status": "void",
+                    "void": true,
+                    "void_reason": "mutual forfeit/no winner"
+                },
+                {
+                    "player1": "342734505175416842",
+                    "player2": "350326901363179523",
+                    "match_id": "342734505175416842_350326901363179523_2025-08-19",
+                    "score": {
+                        "p1": 0,
+                        "p2": 0,
+                        "winner": ""
+                    },
+                    "date": "2025-08-19",
+                    "source": "manual",
+                    "status": "void",
+                    "void": true,
+                    "void_reason": "mutual forfeit/no winner"
+                },
+                {
+                    "player1": "1083783874464731136",
+                    "player2": "840615303313490022",
+                    "match_id": "1083783874464731136_840615303313490022_2025-08-19",
+                    "score": {
+                        "p1": 0,
+                        "p2": 0,
+                        "winner": ""
+                    },
+                    "date": "2025-08-19",
+                    "source": "manual",
+                    "status": "void",
+                    "void": true,
+                    "void_reason": "mutual forfeit/no winner"
                 }
             ]
         },
